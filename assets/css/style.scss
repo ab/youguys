@@ -1,0 +1,34 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+a.whitehuge {
+    color: #fff;
+    background-color: rgba(21, 153, 87, 0.8);
+    border-color: rgba(18, 127, 73, 0.8);
+}
+a.whitehuge:hover {
+    color: #fff;
+    background-color: rgba(27, 191, 109, 0.8);
+    border-color: rgba(21, 153, 87, 0.8);
+}
+
+p#tipjar {
+    font-size: 8em;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.page-header {
+    padding-bottom: 2rem;
+    padding-top: 3rem;
+}
+
+a#home {
+    color: #fff;
+}
+a#home:hover {
+    color: #ddd;
+    text-decoration: none;
+}

@@ -16,13 +16,13 @@
 title: youguys.club
 email: git@abrody.com
 description: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Encourage yourself to use more inclusive alternatives to "You Guys" by
+  donating to charity when you say it.
 # TODO host at custom domain instead
 baseurl: "/youguys" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ab
+google_analytics: UA-20805386-4
 
 # Build settings
 markdown: kramdown
