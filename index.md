@@ -44,7 +44,7 @@ Code](https://girlswhocode.com/).
 
 - [How Gender Neutral Is _Guys_, Really? --- Slate](http://www.slate.com/blogs/lexicon_valley/2016/02/10/the_gender_neutral_use_of_guys_is_on_the_rise_but_it_s_a_slow_rise.html)
 - [Survey on when "guys" are gender neutral, by Julia Evans](https://jvns.ca/blog/2013/12/27/guys-guys-guys/)
-- [Twitter conversation about Julia Evans's survey](https://storify.com/jvns/guys-guys-guys)
+- [Twitter conversation about Julia Evans's survey](https://wakelet.com/wake/a832fa59-b0f5-4f7c-946b-c478edc4fcb9)
 - [Is the word "guys" gender-neutral? --- Quora](https://www.quora.com/Is-the-word-guys-gender-neutral-Is-it-appropriate-for-a-male-to-address-a-group-of-women-or-mixed-gender-people-as-guys-as-in-hey-guys-or-refer-to-such-a-group-as-you-guys/answers/4003148)
 - [Why We Should Stop Calling Women 'Guys' --- Huffington Post](https://www.huffingtonpost.com/michael-jascz/why-we-should-stop-callin_b_8091436.html)
 
