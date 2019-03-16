@@ -22,7 +22,7 @@ The National Organization for Women is the largest organization of feminist gras
 
 Planned Parenthood Federation of America is a nonprofit organization that provides sexual health care in the United States and globally.
 
-- [direct donation link](https://secure.ppaction.org/site/Donation2?df_id=24219&24219.donation=form1&s_src=Evergreen_c3_PPNonDirected_HeaderNav)
+- [direct donation link](https://www.weareplannedparenthood.org/onlineactions/2U7UN1iNhESWUfDs4gDPNg2)
 
 ## [Girls Who Code](https://girlswhocode.com/)
 
