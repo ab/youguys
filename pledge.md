@@ -1,4 +1,6 @@
 ---
+title: "Pledge | youguys.club | Join the club"
+share_button_text: 'I pledge to donate to charity whenever I say "you guys!"'
 ---
 <script type="text/javascript" src="{{ '/assets/js/youguys.js?v=' | append: site.github.build_revision | relative_url }}"></script>
 # Add to the tip jar

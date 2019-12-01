@@ -23,13 +23,17 @@ From [The Boston Globe in 2010](http://archive.boston.com/bostonglobe/ideas/arti
 
 There are [a lot of options](http://www.chicagonow.com/listing-beyond-forty/2017/05/40-gender-neutral-alternatives-to-saying-you-guys/).
 
-**_Y'all_** is a fabulous all-purpose pronoun. It's great even if you're not a Southerner!<br>_Are y'all going to join youguys.club?_
+**Y'all** is a fabulous all-purpose pronoun. It's great even if you're not a Southerner!
 
-**_Hey gang_** works well as a casual option.
+> _Are y'all going to join youguys.club?_
 
-**_Hi folks_** is a little more formal, but too folksy for some. **_Everyone_** sounds great with any audience.
+**Hey gang** works well as a casual option.
 
-Addressing the group by a label can also help, whether it's **_hi team_** or **_hey friends_**.
+**Hi folks** is a little more formal, but too folksy for some. **Everyone** sounds great with any audience.
+
+Addressing the group by a label can also help, whether it's **hi team** or **hey friends**.
+
+> _Hey team, let's finish those TPS reports._
 
 ## Make the pledge, join the club
 
@@ -39,6 +43,8 @@ Press the button to add to the tip jar whenever you accidentally say _you
 guys_. When it's full, click to make a donation to an organization you choose,
 like the [National Organization for Women](https://now.org) or [Girls Who
 Code](https://girlswhocode.com/).
+
+<a href="./pledge" class="btn whitehuge">Join the club</a>
 
 ## Want to read more?
 

@@ -1,0 +1,20 @@
+{% comment %}
+Variables debugging dumper:
+
+Sometimes it can be tricky to know what Jekyll variables exist. Include this
+file to dump most known variables out in HTML.
+
+    {% include debug-variables.html %}
+
+{% endcomment %}
+<pre>
+    site:
+        {% for variable in site %}{{ variable | jsonify | escape }}: {{ site[variable] | jsonify | escape }}
+        {% endfor %}
+    page:
+        {% for variable in page %}{{ variable[0] | jsonify | escape }}: {{ variable[1] | jsonify | escape }}
+        {% endfor %}
+    layout: {{ layout | jsonify | escape }}
+    content: {{ content | jsonify | escape }}
+    paginator: {{ paginator | jsonify | escape }}
+</pre>

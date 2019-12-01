@@ -1,4 +1,6 @@
 ---
+title: "Donate | youguys.club"
+share_button_text: 'I donated $$ to charity thanks to the youguys.club tip jar!'
 ---
 <script type="text/javascript" src="{{ '/assets/js/youguys.js?v=' | append: site.github.build_revision | relative_url }}"></script>
 
