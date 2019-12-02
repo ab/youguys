@@ -10,6 +10,11 @@ share_button_text: 'I donated $$ to charity thanks to the youguys.club tip jar!'
 
 <p id="tipjar">$0</p>
 
+<a class="twitter-share-button"
+  href="https://twitter.com/intent/tweet?text={{ page.share_button_text | uri_escape }}&url={{ site.url }}{{ pageurl }}"
+  data-size="large">
+Tweet</a>
+
 # Places to send your money:
 
 We don't take money directly so that you can give to these nonprofit organizations.
