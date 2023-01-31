@@ -23,7 +23,7 @@ description: >
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://youguys.club" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ab
-google_analytics: UA-20805386-4
+google_analytics: G-5NGRPFM141
 share_buttons_enabled: true
 
 # Build settings
